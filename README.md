@@ -1,5 +1,8 @@
 # Predicting Cognitive Occupation Placement: A Machine Learning Approach
 
+**[View the full interactive report](https://irelandgomes.github.io/cognitive-occupation-ml/
+)**
+
 Classifies U.S. workers into high and low cognitive demand occupations using 2019 ACS microdata linked to O*NET occupational skill ratings, comparing the predictive performance of logistic regression, LASSO, and XGBoost across approximately 800,000 observations.
 
 ## Data
